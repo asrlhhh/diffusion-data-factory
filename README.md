@@ -11,7 +11,7 @@ This repository contains code, examples, and resources for a blog post. The blog
 
 ## Overview
 
-The primary goal of this repository is to provide an easy-to-understand and practical implementation of Stable Diffusion for data labeling. The ideas and techniques demonstrated in this repository are on top of the work done in the Semantic Image Editing project, which can be found at the [original GitHub repository!](https://github.com/ml-research/semantic-image-editing). Additionally, the last part of the pipeline uses optional face restoration model [CodeFormer!](https://github.com/sczhou/CodeFormer). Follow the instructions inside the repo to install CodeFormer.
+The primary goal of this repository is to provide an easy-to-understand and practical implementation of Stable Diffusion for data labeling. The ideas and techniques demonstrated in this repository are on top of the work done in the Semantic Image Editing project, which can be found at the [original GitHub repository](https://github.com/ml-research/semantic-image-editing). Additionally, the last part of the pipeline uses optional face restoration model [CodeFormer](https://github.com/sczhou/CodeFormer). Follow the instructions inside the repo to install CodeFormer.
 
 ## Installation
 
