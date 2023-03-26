@@ -21,6 +21,8 @@ To get started with the code and examples, you'll need to install the required d
 pip install -r requirements.txt
 ```
 
+Also download the **shape_predictor_68_face_landmarks.dat** file and put it under the root folder
+
 For CodeFormer, please follow the instructions in its repo.
 
 ## Usage
