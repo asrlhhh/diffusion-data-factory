@@ -1,0 +1,6 @@
+diffusers
+Pillow<10.0
+accelerate
+torch
+torchvision
+transformers

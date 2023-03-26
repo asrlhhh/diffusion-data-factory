@@ -1,0 +1,12 @@
+diffusers
+Pillow<10.0
+accelerate
+torch
+torchvision
+transformers
+regex
+dlib
+deepface
+opencv-python
+tqdm
+pandas
