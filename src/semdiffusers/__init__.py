@@ -29,3 +29,4 @@ class SemanticEditPipelineOutput(BaseOutput):
 
 if is_transformers_available() and is_torch_available():
     from .pipeline_latent_edit_diffusion import SemanticEditPipeline
+    from .pipeline_semantic_stable_diffusion_img2img import SemanticStableDiffusionImg2ImgPipeline
