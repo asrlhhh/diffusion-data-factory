@@ -1,6 +1,6 @@
 # The Future of Data Labeling: Turning Your Foundation Model into a High-Volume Data Factory
 
-This repository contains code, examples, and resources for a blog post. The blog explores the posibility of using foundation models, particularly large diffusion models like Stable Diffusion, to generate large-scale labeled datasets efficiently. It focuses on a use case involving the CelebA facial dataset and demonstrates how these generative models can produce high-quality, annotated facial images for various AI applications.
+This repository contains code, examples, and resources for [blog post](https://medium.com/@asrielhan/turn-a-foundation-model-into-a-data-factory-part-one-a6996dcc9b73). The blog explores the posibility of using foundation models, particularly large diffusion models like Stable Diffusion, to generate large-scale labeled datasets efficiently. It focuses on a use case involving the CelebA facial dataset and demonstrates how these generative models can produce high-quality, annotated facial images for various AI applications.
 
 ## Table of Contents
 
